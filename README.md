@@ -7,6 +7,12 @@ Proyecto educativo para explicar el uso de la librería pycoingecko para obtener
     python3 -m venv venv
     source venv/bin/activate
 
+### Variables de entorno:
+
+    Modifica el archivo .env (o ponle el nombre que quieras), y ejecutar:
+    
+    source .env
+
 ### Instala dependencias
 
     pip install -r requirements.txt
