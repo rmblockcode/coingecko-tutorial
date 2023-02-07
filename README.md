@@ -9,9 +9,9 @@ Proyecto educativo para explicar el uso de la librería pycoingecko para obtener
 
 ### Variables de entorno:
 
-    Modifica el archivo .env (o ponle el nombre que quieras), y ejecutar:
+    Modifica el archivo **variables** (o ponle el nombre que quieras), y ejecuta:
     
-    source .env
+    source variables
 
 ### Instala dependencias
 
